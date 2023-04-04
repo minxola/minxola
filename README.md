@@ -1,9 +1,7 @@
 # Hey, I am Rosmer Minchola aka `Minxola` 👋
 - I am a Engineer, Food Engineer, but I love code `<code>`
 - 👀 I’m interested in Web Design, Data Science and IT
-- 🌱 I’m currently learning HTML, CSS and JS.
-- I learn JavaScript everyday...
-- 💞️ I’m looking to collaborate on any project about technology
+- 💞️ I’m looking to collaborate as a Data Analyst on any project about technology
 - 📫 How to reach me m.me/minxola
 
 <!---
